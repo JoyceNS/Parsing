@@ -1,0 +1,7 @@
+c:\users\shahe\source\repos\Parsing\Parsing\bin\Debug\Parsing.exe.config
+c:\users\shahe\source\repos\Parsing\Parsing\bin\Debug\Parsing.exe
+c:\users\shahe\source\repos\Parsing\Parsing\bin\Debug\Parsing.pdb
+c:\users\shahe\source\repos\Parsing\Parsing\obj\Debug\Parsing.csprojAssemblyReference.cache
+c:\users\shahe\source\repos\Parsing\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
+c:\users\shahe\source\repos\Parsing\Parsing\obj\Debug\Parsing.exe
+c:\users\shahe\source\repos\Parsing\Parsing\obj\Debug\Parsing.pdb
